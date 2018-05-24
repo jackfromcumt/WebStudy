@@ -1,0 +1,13 @@
+
+零基础如何学前端？建议可以先从这预习视频 如下：
+
+HTMl5入门：http://study.163.com/course/courseMain.htm?courseId=171001
+
+CSS3：http://study.163.com/course/courseMain.htm?courseId=190001
+
+Javascript：http://study.163.com/course/courseMain.htm?courseId=195001
+
+用Java学编程的第10章：http://study.163.com/course/introduction/533006.htm 主要学习面向对象的编程思想（不要太关注java细节）
+
+
+ps:在云课堂搜索以上网址即可打开学习，主要为翁恺老师的基础课程。
